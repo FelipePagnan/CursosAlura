@@ -1,0 +1,14 @@
+D:\Estudos\Programação\Alura\Aprenda a programar em C# com Orientação a Objetos\1_PrimeiroProgramaEmCSharp\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\PrimeiroProjeto.exe
+D:\Estudos\Programação\Alura\Aprenda a programar em C# com Orientação a Objetos\1_PrimeiroProgramaEmCSharp\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\PrimeiroProjeto.deps.json
+D:\Estudos\Programação\Alura\Aprenda a programar em C# com Orientação a Objetos\1_PrimeiroProgramaEmCSharp\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\PrimeiroProjeto.runtimeconfig.json
+D:\Estudos\Programação\Alura\Aprenda a programar em C# com Orientação a Objetos\1_PrimeiroProgramaEmCSharp\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\PrimeiroProjeto.dll
+D:\Estudos\Programação\Alura\Aprenda a programar em C# com Orientação a Objetos\1_PrimeiroProgramaEmCSharp\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\PrimeiroProjeto.pdb
+D:\Estudos\Programação\Alura\Aprenda a programar em C# com Orientação a Objetos\1_PrimeiroProgramaEmCSharp\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\Programação\Alura\Aprenda a programar em C# com Orientação a Objetos\1_PrimeiroProgramaEmCSharp\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\PrimeiroProjeto.AssemblyInfoInputs.cache
+D:\Estudos\Programação\Alura\Aprenda a programar em C# com Orientação a Objetos\1_PrimeiroProgramaEmCSharp\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\PrimeiroProjeto.AssemblyInfo.cs
+D:\Estudos\Programação\Alura\Aprenda a programar em C# com Orientação a Objetos\1_PrimeiroProgramaEmCSharp\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\PrimeiroProjeto.csproj.CoreCompileInputs.cache
+D:\Estudos\Programação\Alura\Aprenda a programar em C# com Orientação a Objetos\1_PrimeiroProgramaEmCSharp\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\PrimeiroProjeto.dll
+D:\Estudos\Programação\Alura\Aprenda a programar em C# com Orientação a Objetos\1_PrimeiroProgramaEmCSharp\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\PrimeiroProjeto.dll
+D:\Estudos\Programação\Alura\Aprenda a programar em C# com Orientação a Objetos\1_PrimeiroProgramaEmCSharp\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\PrimeiroProjeto.pdb
+D:\Estudos\Programação\Alura\Aprenda a programar em C# com Orientação a Objetos\1_PrimeiroProgramaEmCSharp\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\PrimeiroProjeto.genruntimeconfig.cache
+D:\Estudos\Programação\Alura\Aprenda a programar em C# com Orientação a Objetos\1_PrimeiroProgramaEmCSharp\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\PrimeiroProjeto.dll
