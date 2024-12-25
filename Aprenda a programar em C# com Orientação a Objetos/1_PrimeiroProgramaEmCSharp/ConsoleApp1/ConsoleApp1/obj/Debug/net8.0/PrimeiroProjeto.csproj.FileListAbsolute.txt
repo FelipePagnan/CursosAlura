@@ -12,3 +12,4 @@ D:\Estudos\Programação\Alura\Aprenda a programar em C# com Orientação a Obje
 D:\Estudos\Programação\Alura\Aprenda a programar em C# com Orientação a Objetos\1_PrimeiroProgramaEmCSharp\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\PrimeiroProjeto.pdb
 D:\Estudos\Programação\Alura\Aprenda a programar em C# com Orientação a Objetos\1_PrimeiroProgramaEmCSharp\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\PrimeiroProjeto.genruntimeconfig.cache
 D:\Estudos\Programação\Alura\Aprenda a programar em C# com Orientação a Objetos\1_PrimeiroProgramaEmCSharp\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\PrimeiroProjeto.dll
+D:\Estudos\Programação\Alura\Aprenda a programar em C# com Orientação a Objetos\1_PrimeiroProgramaEmCSharp\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\PrimeiroProjeto.sourcelink.json

@@ -1,6 +1,6 @@
 ﻿// Screen Sound
-
 var mensagemDeBoasVindas = "Boas vindas ao Screen Sound";
+List<string> listaDasBandas = new List<string> { "U2", "The Beatles", "Calypso" };
 
 void ExibirLogo()
 {
@@ -31,18 +31,23 @@ void ExibirOpcoesDoMenu()
 
     switch (opcaoEscolhidaNumerica)
     {
-        case 1: RegistrarBanda();
+        case 1:
+            RegistrarBanda();
             break;
         case 2:
+            MostrarBandasRegistradas();
             break;
         case 3:
+            Console.WriteLine("Você escolheu a opção " + opcaoEscolhidaNumerica);
             break;
         case 4:
+            Console.WriteLine("Você escolheu a opção " + opcaoEscolhidaNumerica);
             break;
-        case -1: 
+        case -1:
+            Console.WriteLine("Tchau tchau :)");
             break;
         default:
-            Console.WriteLine("Opcao invalida");
+            Console.WriteLine("Opção inválida");
             break;
     }
 }
@@ -50,14 +55,44 @@ void ExibirOpcoesDoMenu()
 void RegistrarBanda()
 {
     Console.Clear();
-    Console.WriteLine("Registro de bandas");
+    ExibirTituloDaOpcao("Registros das bandas");
     Console.Write("Digite o nome da banda que deseja registrar: ");
-     string nomeDaBanda = Console.ReadLine()!;
+    string nomeDaBanda = Console.ReadLine()!;
+    listaDasBandas.Add(nomeDaBanda);
     Console.WriteLine($"A banda {nomeDaBanda} foi registrada com sucesso!");
-    Console.Clear();
     Thread.Sleep(2000);
+    Console.Clear();
     ExibirOpcoesDoMenu();
 }
 
-ExibirLogo();
+void MostrarBandasRegistradas()
+{
+    Console.Clear();
+    ExibirTituloDaOpcao("Exibindo todas as bandas registradas na nossa aplicacao");
+    //for (int i = 0; i < listaDasBandas.Count; i++)
+    //{
+    //Console.WriteLine($"Banda: {listaDasBandas[i]}");
+    //}
+
+    foreach (string banda in listaDasBandas)
+    {
+        Console.WriteLine($"Banda: {banda}");
+    }
+
+    Console.WriteLine("\nDigite uma tecla para voltar ao menu principal");
+    Console.ReadKey();
+    Console.Clear();
+    ExibirOpcoesDoMenu();
+
+}
+
+void ExibirTituloDaOpcao(string titulo)
+{
+    var quantidadedeLetras = titulo.Length;
+    var asteriscos = string.Empty.PadLeft(quantidadedeLetras, '*');
+    Console.WriteLine(asteriscos);
+    Console.WriteLine(titulo);
+    Console.WriteLine(asteriscos + "\n");
+}
+
 ExibirOpcoesDoMenu();
