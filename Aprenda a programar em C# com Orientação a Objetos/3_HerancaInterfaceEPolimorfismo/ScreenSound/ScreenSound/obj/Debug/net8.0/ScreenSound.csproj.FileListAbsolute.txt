@@ -1,0 +1,15 @@
+D:\Estudos\Programação\Alura\Aprenda a programar em C# com Orientação a Objetos\3_HerancaInterfaceEPolimorfismo\ScreenSound\ScreenSound\bin\Debug\net8.0\ScreenSound.exe
+D:\Estudos\Programação\Alura\Aprenda a programar em C# com Orientação a Objetos\3_HerancaInterfaceEPolimorfismo\ScreenSound\ScreenSound\bin\Debug\net8.0\ScreenSound.deps.json
+D:\Estudos\Programação\Alura\Aprenda a programar em C# com Orientação a Objetos\3_HerancaInterfaceEPolimorfismo\ScreenSound\ScreenSound\bin\Debug\net8.0\ScreenSound.runtimeconfig.json
+D:\Estudos\Programação\Alura\Aprenda a programar em C# com Orientação a Objetos\3_HerancaInterfaceEPolimorfismo\ScreenSound\ScreenSound\bin\Debug\net8.0\ScreenSound.dll
+D:\Estudos\Programação\Alura\Aprenda a programar em C# com Orientação a Objetos\3_HerancaInterfaceEPolimorfismo\ScreenSound\ScreenSound\bin\Debug\net8.0\ScreenSound.pdb
+D:\Estudos\Programação\Alura\Aprenda a programar em C# com Orientação a Objetos\3_HerancaInterfaceEPolimorfismo\ScreenSound\ScreenSound\obj\Debug\net8.0\ScreenSound.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\Programação\Alura\Aprenda a programar em C# com Orientação a Objetos\3_HerancaInterfaceEPolimorfismo\ScreenSound\ScreenSound\obj\Debug\net8.0\ScreenSound.AssemblyInfoInputs.cache
+D:\Estudos\Programação\Alura\Aprenda a programar em C# com Orientação a Objetos\3_HerancaInterfaceEPolimorfismo\ScreenSound\ScreenSound\obj\Debug\net8.0\ScreenSound.AssemblyInfo.cs
+D:\Estudos\Programação\Alura\Aprenda a programar em C# com Orientação a Objetos\3_HerancaInterfaceEPolimorfismo\ScreenSound\ScreenSound\obj\Debug\net8.0\ScreenSound.csproj.CoreCompileInputs.cache
+D:\Estudos\Programação\Alura\Aprenda a programar em C# com Orientação a Objetos\3_HerancaInterfaceEPolimorfismo\ScreenSound\ScreenSound\obj\Debug\net8.0\ScreenSound.sourcelink.json
+D:\Estudos\Programação\Alura\Aprenda a programar em C# com Orientação a Objetos\3_HerancaInterfaceEPolimorfismo\ScreenSound\ScreenSound\obj\Debug\net8.0\ScreenSound.dll
+D:\Estudos\Programação\Alura\Aprenda a programar em C# com Orientação a Objetos\3_HerancaInterfaceEPolimorfismo\ScreenSound\ScreenSound\obj\Debug\net8.0\refint\ScreenSound.dll
+D:\Estudos\Programação\Alura\Aprenda a programar em C# com Orientação a Objetos\3_HerancaInterfaceEPolimorfismo\ScreenSound\ScreenSound\obj\Debug\net8.0\ScreenSound.pdb
+D:\Estudos\Programação\Alura\Aprenda a programar em C# com Orientação a Objetos\3_HerancaInterfaceEPolimorfismo\ScreenSound\ScreenSound\obj\Debug\net8.0\ScreenSound.genruntimeconfig.cache
+D:\Estudos\Programação\Alura\Aprenda a programar em C# com Orientação a Objetos\3_HerancaInterfaceEPolimorfismo\ScreenSound\ScreenSound\obj\Debug\net8.0\ref\ScreenSound.dll
